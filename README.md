@@ -1,11 +1,6 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+# Hello-world
+Hello World repository for Git Testing.
 
-This repository is built step by step in the tutorial.
+This is an example repository for the git practice and trials.
 
-It now includes steps for github.
-
-Focus on git pull.
-
-Updated using update-readme branch.
+This repository can be used to conduct learn, explore,experiment with git commands.~~~~ 
