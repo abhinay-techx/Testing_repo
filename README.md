@@ -1,5 +1,5 @@
-# Hello-world
-Hello World repository for Git Testing.
+# Hello-Test
+Hello Test repository for Git Testing.
 
 This is a dummy repository for git practice and trials.
 
